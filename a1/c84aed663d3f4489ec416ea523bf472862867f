@@ -1,0 +1,35 @@
+tests/test_patch_constant_folding.py
+  s_0fe9133072adb3::t_5332cb13d97909 1-75,83-104
+  s_0fe9133072adb3::t_133e5baf6bb4ff 76-82
+README.md
+  s_0fe9133072adb3::t_78086713e0a899 8-9
+patch_llvm.py
+  s_0fe9133072adb3::t_1d4f126574f91e 535
+  s_0fe9133072adb3::t_820ef6dc027877 791-794,803-804
+  s_0fe9133072adb3::t_d7a089342abe78 236-239,241-242,247-251
+  s_0fe9133072adb3::t_3c7428cc35c553 651-669
+  s_0fe9133072adb3::t_58d306c71ad99b 754-757
+  s_0fe9133072adb3::t_5db43148b9b98a 562-565
+  s_0fe9133072adb3::t_a0b9b5be06cc56 720-721,727,731-735,737
+CLAUDE.md
+  s_0fe9133072adb3::t_cd9deb0bd593e0 7
+  s_0fe9133072adb3::t_e4da451d2c326f 29,31
+  s_0fe9133072adb3::t_6f2f1c77b5d0b3 45
+  s_0fe9133072adb3::t_064b970dc06d49 39-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a1c84aed663d3f4489ec416ea523bf472862867f",
+  "prompts": {},
+  "sessions": {
+    "s_0fe9133072adb3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "83338510-4761-4cc0-b37d-0b903d63252b",
+        "model": "grok-4.7"
+      },
+      "human_author": "Fiona Cai <69484076+fiona-cai@users.noreply.github.com>"
+    }
+  }
+}
