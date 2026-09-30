@@ -1,0 +1,19 @@
+patch_llvm.py
+  s_0fe9133072adb3::t_37298cf0b469cb 35-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "892e44d1a14d02e9956cf5f6b29eeb120fbc83c7",
+  "prompts": {},
+  "sessions": {
+    "s_0fe9133072adb3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "83338510-4761-4cc0-b37d-0b903d63252b",
+        "model": "grok-4.7"
+      },
+      "human_author": "Fiona Cai <69484076+fiona-cai@users.noreply.github.com>"
+    }
+  }
+}
