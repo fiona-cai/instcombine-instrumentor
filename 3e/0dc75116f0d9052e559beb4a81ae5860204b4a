@@ -1,0 +1,32 @@
+patch_llvm.py
+  s_b1d599d4ed8712::t_44e52e611de495 787,793,804,808,810,826
+  s_b1d599d4ed8712::t_1a83d2285bbd6d 33-37
+  s_b1d599d4ed8712::t_542f04aa54d37e 270
+  s_b1d599d4ed8712::t_b6c738df3b778c 610,637
+CLAUDE.md
+  s_b1d599d4ed8712::t_3c5c20958279e7 29,39
+wasm/test/smoke_wasm.mjs
+  s_b1d599d4ed8712::t_a44b6b71d3fb78 24-29,37
+smoke_test.sh
+  s_b1d599d4ed8712::t_182498ab0223de 48-50
+  s_b1d599d4ed8712::t_078feadc47455b 14-20
+  s_b1d599d4ed8712::t_2de98c01aa17ce 51-53
+tests/test_patch_constant_folding.py
+  s_b1d599d4ed8712::t_022068d5f25c0b 102-115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e0dc75116f0d9052e559beb4a81ae5860204b4a",
+  "prompts": {},
+  "sessions": {
+    "s_b1d599d4ed8712": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8db91de2-6e14-470f-a380-5c51cdf87681",
+        "model": "gemini-4-argon"
+      },
+      "human_author": "Fiona Cai <69484076+fiona-cai@users.noreply.github.com>"
+    }
+  }
+}
