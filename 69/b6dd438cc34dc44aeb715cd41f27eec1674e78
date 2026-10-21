@@ -1,0 +1,19 @@
+.vscode/settings.json
+  s_b1d599d4ed8712::t_498a3d478aa3f0 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "69b6dd438cc34dc44aeb715cd41f27eec1674e78",
+  "prompts": {},
+  "sessions": {
+    "s_b1d599d4ed8712": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8db91de2-6e14-470f-a380-5c51cdf87681",
+        "model": "gemini-4-argon"
+      },
+      "human_author": "Fiona Cai <69484076+fiona-cai@users.noreply.github.com>"
+    }
+  }
+}
