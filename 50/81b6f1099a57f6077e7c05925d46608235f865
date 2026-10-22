@@ -11,6 +11,8 @@ smoke_test.sh
   s_b1d599d4ed8712::t_2de98c01aa17ce 51-53
 tests/test_patch_constant_folding.py
   s_b1d599d4ed8712::t_022068d5f25c0b 102-115
+wasm/test/input/smoke.ll
+  s_c0836cc75dc4dd::t_31d3b3a7848944 6-14
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -23,6 +25,14 @@ tests/test_patch_constant_folding.py
         "tool": "cursor",
         "id": "8db91de2-6e14-470f-a380-5c51cdf87681",
         "model": "gemini-4-argon"
+      },
+      "human_author": "Fiona Cai <69484076+fiona-cai@users.noreply.github.com>"
+    },
+    "s_c0836cc75dc4dd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "339ab6e4-cdbd-428e-8c4d-ba2f9aeebc28",
+        "model": "grok-4.6"
       },
       "human_author": "Fiona Cai <69484076+fiona-cai@users.noreply.github.com>"
     }
